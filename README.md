@@ -1,6 +1,6 @@
 ﻿# Enemy Game
 
-Hi! This my first live hosted html canvas **game**, I have created this using  JavaScript. 
+Hi! This my first live hosted  **game** using HTML, CSS and JS. This game need a sheer amount of concentration and fast reflexes.
 You can see the **Controls** and **Rules** below
 
 
