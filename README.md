@@ -19,7 +19,7 @@ You can see the **Controls** and **Rules** below
  4. **Huge weapon** per shot cost **20 points.** *You must have at least 20 points in order to use Huge weapon*
 
  5. Light weapon is **faster but weaker** 
- 6. Heavy weapon is **slower** but deals much **damage**
+ 6. Heavy weapon is **slower** but needs more **damage**
  7. Huge weapon kill each enemy **instantly**
  
 
