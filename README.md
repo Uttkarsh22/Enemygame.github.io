@@ -1,6 +1,6 @@
-﻿# Welcome to CANVAS 2D SHOOTING
+﻿# Enemy Game
 
-Hi!  my first html canvas **game**, I have created this using vanilla JavaScript. 
+Hi! This my first live hosted html canvas **game**, I have created this using  JavaScript. 
 You can see the **Controls** and **Rules** below
 
 
