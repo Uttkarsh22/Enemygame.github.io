@@ -7,7 +7,7 @@ You can see the **Controls** and **Rules** below
 ## Demo 
 
 
-**Play** Click [Here](https://Enemygame.github.io/canvasGame/)
+**Play** Click [Here](https://uttkarsh22.github.io/Enemygame.github.io/)
 
 
 
